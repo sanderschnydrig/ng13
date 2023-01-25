@@ -1,0 +1,7 @@
+{
+  "name": "ng13",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
